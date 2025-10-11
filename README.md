@@ -3,6 +3,6 @@
 </p>
 
 # Vibe Design Resources Hub
-> Colección de recursos (Webs, artículos, tutoriales, videos y cursos) para product design, vibe coding, UX-UI design que fuí recolectando desde que empecé en el mundo del diseño de productos digitales. 
+> Colección curada de recursos (webs, artículos, tutoriales, videos y cursos) sobre Product Design, Vibe Coding y UX/UI Design que fui reuniendo desde mis primeros pasos en el mundo del diseño de productos digitales. 
 
 ## Color
