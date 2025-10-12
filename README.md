@@ -11,9 +11,9 @@ El color es una parte esencial en el diseño. Comunica emociones, establece jera
 
 ### Herramientas
 
-- [Radix Colors](https://www.radix-ui.com/colors) Sistema de color completo para diseñar sitios web y aplicaciones hermosos y accesibles.
-- [Tailwind CSS Color Generator](https://uicolors.app/generate/4141c9) Crear instantáneamente escalas de color impresionantes ingresando un color base o presionando la barra espaciadora.
-- [Free Accessibility Toolbox](https://www.achecks.org/free-accessibility-toolbox-for-websites-and-pdf-documents/)
+- [Radix Colors](https://www.radix-ui.com/colors): sistema de color completo para diseñar sitios web y aplicaciones hermosos y accesibles.
+- [Tailwind CSS Color Generator](https://uicolors.app/generate/4141c9): crear instantáneamente escalas de color impresionantes ingresando un color base o presionando la barra espaciadora.
+- [Free Accessibility Toolbox](https://www.achecks.org/free-accessibility-toolbox-for-websites-and-pdf-documents/): compilador de herramientas para chequear la accesibilidad de tu página web.
 
 ### Artículos
 
