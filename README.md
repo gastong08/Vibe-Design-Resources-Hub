@@ -3,7 +3,7 @@
 </p>
 
 # Vibe Design Resources Hub
-> Colección curada de recursos (webs, artículos, tutoriales, videos y cursos) sobre Product Design, Vibe Coding y UX/UI Design que fui reuniendo desde mis primeros pasos en el mundo del diseño de productos digitales. 
+> Colección curada de recursos (webs, artículos, tutoriales, herramientas y cursos) sobre Product Design, Vibe Coding y UX/UI Design que fui reuniendo desde mis primeros pasos en el mundo del diseño de productos digitales. Es una bitácora que se va a ir nutriendo constantemente. 
 
 ## Color
 
@@ -13,10 +13,11 @@ El color es una parte esencial en el diseño. Comunica emociones, establece jera
 
 - [Radix Colors](https://www.radix-ui.com/colors) Sistema de color completo para diseñar sitios web y aplicaciones hermosos y accesibles.
 - [Tailwind CSS Color Generator](https://uicolors.app/generate/4141c9) Crear instantáneamente escalas de color impresionantes ingresando un color base o presionando la barra espaciadora.
-- 
+- [Free Accessibility Toolbox](https://www.achecks.org/free-accessibility-toolbox-for-websites-and-pdf-documents/)
 
 ### Artículos
 
 1. [How To Actually Implement Your UI Color Palette](https://medium.com/@shannon.cabeen/how-to-actually-implement-your-ui-color-palette-a5a7e266dc6f)
 2. [Applying Color Theory to Digital Displays](https://www.uxmatters.com/mt/archives/2007/01/applying-color-theory-to-digital-displays.php)
+3. [Pick a Harmonious Color Palette for any Art Project: Free Tools and Strategies](https://medium.com/@chattkhaoula/pick-a-harmonious-color-palette-for-any-art-project-free-tools-and-strategies-a3fb6ca23985)
 
