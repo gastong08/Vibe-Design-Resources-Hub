@@ -6,3 +6,5 @@
 > Colección curada de recursos (webs, artículos, tutoriales, videos y cursos) sobre Product Design, Vibe Coding y UX/UI Design que fui reuniendo desde mis primeros pasos en el mundo del diseño de productos digitales. 
 
 ## Color
+
+El color es una parte esencial en el diseño. Comunica emociones, establece jerarquías y refuerza la identidad visual.
