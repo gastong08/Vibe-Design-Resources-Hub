@@ -12,6 +12,11 @@ El color es una parte esencial en el diseño. Comunica emociones, establece jera
 ### Herramientas
 
 - [Radix Colors](https://www.radix-ui.com/colors) Sistema de color completo para diseñar sitios web y aplicaciones hermosos y accesibles.
-
+- [Tailwind CSS Color Generator](https://uicolors.app/generate/4141c9) Crear instantáneamente escalas de color impresionantes ingresando un color base o presionando la barra espaciadora.
+- 
 
 ### Artículos
+
+1. [How To Actually Implement Your UI Color Palette](https://medium.com/@shannon.cabeen/how-to-actually-implement-your-ui-color-palette-a5a7e266dc6f)
+2. [Applying Color Theory to Digital Displays](https://www.uxmatters.com/mt/archives/2007/01/applying-color-theory-to-digital-displays.php)
+
