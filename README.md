@@ -15,6 +15,12 @@ El color es una parte esencial en el diseño. Comunica emociones, establece jera
 - [Tailwind CSS Color Generator](https://uicolors.app/generate/4141c9): crear instantáneamente escalas de color impresionantes ingresando un color base o presionando la barra espaciadora.
 - [Free Accessibility Toolbox](https://www.achecks.org/free-accessibility-toolbox-for-websites-and-pdf-documents/): compilador de herramientas para chequear la accesibilidad de tu página web.
 
+#### Rueda de colores
+
+- [Paletton](https://paletton.com/#uid=5000u0kllllaFw0g0qFqFg0w0aF) Paletton no es solo para un profesional, fue creado para ayudar a todo tipo de personas.
+- [Canva color wheel](https://www.canva.com/colors/color-wheel/) ¿Quieres saber qué colores combinan bien? El círculo cromático de Canva facilita las combinaciones.
+- [Adobe color wheel](https://color.adobe.com/es/create/color-wheel) Utiliza la rueda de colores para crear paletas con colores en armonía. Elige el color de base y selecciona entre una gran variedad de armonías de color, como análoga, triádica, complementaria y otras, para crear diseños increíbles.
+
 ### Artículos
 
 1. [How To Actually Implement Your UI Color Palette](https://medium.com/@shannon.cabeen/how-to-actually-implement-your-ui-color-palette-a5a7e266dc6f)
@@ -39,3 +45,5 @@ Utilizar íconos te brinda la posibilidad de mejorar la usabilidad y hacer que l
 ### Herramientas
 
 - [Tabler icon](https://tabler.io/icons) Un conjunto de iconos completo con 4964 iconos con grosores de línea y espaciado perfectos, listos para Figma, aplicaciones y sistemas de diseño.
+- [Lucid](https://lucide.dev/icons/) Lucide es una biblioteca de iconos de código abierto que proporciona más de 1000 archivos vectoriales (svg) para mostrar iconos y símbolos en proyectos digitales y no digitales.
+- 
