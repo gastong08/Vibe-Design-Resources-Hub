@@ -46,4 +46,4 @@ Utilizar íconos te brinda la posibilidad de mejorar la usabilidad y hacer que l
 
 - [Tabler icon](https://tabler.io/icons) Un conjunto de iconos completo con 4964 iconos con grosores de línea y espaciado perfectos, listos para Figma, aplicaciones y sistemas de diseño.
 - [Lucid](https://lucide.dev/icons/) Lucide es una biblioteca de iconos de código abierto que proporciona más de 1000 archivos vectoriales (svg) para mostrar iconos y símbolos en proyectos digitales y no digitales.
-- 
+- [Streamline](https://www.streamlinehq.com/free) Una biblioteca de iconos completa con todos los conceptos que necesitas, disponible en cinco estilos versátiles.
