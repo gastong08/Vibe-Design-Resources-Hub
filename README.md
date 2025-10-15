@@ -25,9 +25,17 @@ El color es una parte esencial en el diseño. Comunica emociones, establece jera
 
 Los componentes son piezas reutilizables de una interfaz. Son como “bloques de construcción” del producto digital. Garantizan coherencia, escalabilidad y una experiencia emocional unificada.
 
+### Herramientas
 
 - [The component Gallery](https://component.gallery): la Galería de Componentes es un repositorio actualizado de componentes de interfaz basados en ejemplos del mundo de los sistemas de diseño, diseñado para ser una referencia para cualquier persona que construya interfaces de usuario.
 - [Fountn](https://fountn.design): la mayor colección de recursos de diseño del mundo, curada por diseñadores.
 - [UIverso](https://uiverse.io): la mayor biblioteca de interfaz de usuario de código abierto
 - [Shadcn/ui](https://ui.shadcn.com/): Un conjunto de componentes con un diseño atractivo que puedes personalizar, ampliar y desarrollar. Open Source. Open Code.
 
+## Íconos 
+
+Utilizar íconos te brinda la posibilidad de mejorar la usabilidad y hacer que las interfaces sean más intuitivas. También, se utilizan para comunicar acciones y estados visuales
+
+### Herramientas
+
+- [Tabler icon](https://tabler.io/icons) Un conjunto de iconos completo con 4964 iconos con grosores de línea y espaciado perfectos, listos para Figma, aplicaciones y sistemas de diseño.
