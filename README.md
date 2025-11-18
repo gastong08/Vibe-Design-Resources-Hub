@@ -65,6 +65,8 @@ La tipografía influye directamente en cómo las personas perciben y comprenden 
 - [Motion](https://motion.dev/examples) Explora más de 300 ejemplos de Motion prediseñados, gratuitos y premium, con código para copiar y pegar, para impulsar tu próximo proyecto
 - 
 
-### Blogpost
+### Artículos
 
+1. [12 principios de animación](https://www.raphaelsalaja.com/library/12-principles-of-animation)
+2. 
 
