@@ -57,3 +57,14 @@ La tipografía influye directamente en cómo las personas perciben y comprenden 
 - [The good line height](https://thegoodlineheight.com/?fs=24&m=1.5&g=8) 
 - [The typhography principles by Obis Agency](https://typographyprinciples.obys.agency/many_thanks/)
 - [Learn UI](https://www.learnui.design/blog/mobile-desktop-website-font-size-guidelines.html)
+
+## Animaciones
+
+### Recursos 
+- [Animated UI](https://animate-ui.com) Una distribución de componentes React totalmente animada y de código abierto. Explore una lista de primitivas animadas, componentes e iconos que puede instalar y usar en sus proyectos.
+- [Motion](https://motion.dev/examples) Explora más de 300 ejemplos de Motion prediseñados, gratuitos y premium, con código para copiar y pegar, para impulsar tu próximo proyecto
+- 
+
+### Blogpost
+
+
