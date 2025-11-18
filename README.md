@@ -63,7 +63,7 @@ La tipografía influye directamente en cómo las personas perciben y comprenden 
 ### Recursos 
 - [Animated UI](https://animate-ui.com) Una distribución de componentes React totalmente animada y de código abierto. Explore una lista de primitivas animadas, componentes e iconos que puede instalar y usar en sus proyectos.
 - [Motion](https://motion.dev/examples) Explora más de 300 ejemplos de Motion prediseñados, gratuitos y premium, con código para copiar y pegar, para impulsar tu próximo proyecto
-- 
+- [Animations of the web](https://animations.dev) Aprende la teoría y practica detrás de grandes animaciones con esta experiencia de aprendizaje interactivo.
 
 ### Artículos
 
