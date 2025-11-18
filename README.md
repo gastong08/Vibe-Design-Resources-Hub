@@ -68,5 +68,4 @@ La tipografía influye directamente en cómo las personas perciben y comprenden 
 ### Artículos
 
 1. [12 principios de animación](https://www.raphaelsalaja.com/library/12-principles-of-animation)
-2. 
 
